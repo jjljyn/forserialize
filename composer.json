@@ -1,5 +1,5 @@
 {
-    "name": "Cloverdemo/Ctf",
+    "name": "cloverdemo/ctf",
     "type": "library",
     "autoload": {
         "psr-4": {
