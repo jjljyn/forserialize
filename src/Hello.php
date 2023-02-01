@@ -1,7 +1,7 @@
 <?php
-namespace cloverdemo\ctf;
+namespace Cloverdemo\Ctf;
 
-class Hello
+Class Hello
 {
     public function hello()
     {
