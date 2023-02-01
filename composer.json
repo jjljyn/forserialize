@@ -1,0 +1,10 @@
+{
+    "name": "cloverdemo/ctf",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cloverdemo\\Ctf\\": "src/"
+        }
+    },
+    "require": {}
+}
